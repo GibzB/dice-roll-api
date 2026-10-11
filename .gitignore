@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# SAM build artifacts
+.aws-sam/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Local env
+.env

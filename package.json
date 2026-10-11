@@ -1,0 +1,16 @@
+{
+  "name": "dice-roll-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local test project for the serverless Dice Roll API Lambda handler",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "fast-check": "4.10.2"
+  }
+}
